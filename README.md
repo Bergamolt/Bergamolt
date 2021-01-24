@@ -16,10 +16,10 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
   
-- 🌱 Сейчас я изучаю React/ReactNative; 
-- 💬 Если вам нужна помощь во Frontend, я готов помочь;
-- 📫 Связаться со мной: [@bergamolt](https://t.me/bergamolt);
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 🌱 Сейчас я изучаю React/ReactNative 
+- 💬 Если вам нужна помощь во Frontend, я готов помочь
+- 📫 Связаться со мной [@bergamolt](https://t.me/bergamolt)
+- 📝 [Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Языки и инструменты:**  
 
@@ -28,7 +28,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **На этой неделе я потратил свое время:**
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bergamolt)](https://github.com/anuraghazra/github-readme-stats)
 
