@@ -8,14 +8,14 @@
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+</a>  
   
-Привет, Я [Валерий Хома!](https://instagram.com/bergamolt/), я самоучка Frontend Developer 🚀 из Украины.  
+Привет, Я [Валерий Хома!](https://instagram.com/bergamolt/), самоучка Frontend Developer 🚀 из Украины.  
   
-- 🌱 Сейчас я изучаю React/ReactNative 
-- 💬 Если вам нужна помощь во Frontend, я готов помочь
-- 📫 Связаться со мной [@bergamolt](https://t.me/bergamolt)
-- 📝 [Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
+- 🌱  Сейчас я изучаю React/ReactNative 
+- 💬  Если вам нужна помощь во Frontend, я готов помочь
+- 📫  Связаться со мной [@bergamolt](https://t.me/bergamolt)
+- 📝  [Резюме](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
 **Языки и инструменты:**  
 
