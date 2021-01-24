@@ -9,12 +9,9 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-Привет, Я [Валерий Хома!](https://instagram.com/bergamolt/), я самоучка Frontend Developer 🚀 из Украины.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+Привет, Я [Валерий Хома!](https://instagram.com/bergamolt/), я самоучка Frontend Developer 🚀 из Украины.  
   
 - 🌱 Сейчас я изучаю React/ReactNative 
 - 💬 Если вам нужна помощь во Frontend, я готов помочь
@@ -29,7 +26,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **На этой неделе я потратил свое время:**
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bergamolt)](https://github.com/anuraghazra/github-readme-stats)
 
 
