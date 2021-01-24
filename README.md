@@ -9,7 +9,6 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>  
-  
   Привет, Я [Валерий Хома!](https://instagram.com/bergamolt/), самоучка Frontend Developer 🚀 из Украины.  
   
 - 🌱  Сейчас я изучаю React/ReactNative 
