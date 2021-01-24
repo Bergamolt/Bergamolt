@@ -45,15 +45,9 @@ Hi, I'm [Abhishek Naidu!](https://blog.abhisheknaidu.tech/), a passionate self-t
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   6 hrs 58 mins   ██████████████░░░░░░░░░░░   55.84 % 
-C++          4 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.22 % 
-CSS          21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-JSON         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Text         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-```
-<!--END_SECTION:waka-->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Bergamolt=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
@@ -66,11 +60,6 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ✅  Completed 530 tasks so far           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
