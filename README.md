@@ -8,11 +8,9 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 Привет, Я [Валерий Хома!](https://instagram.com/bergamolt/), я самоучка Frontend Developer 🚀 из Украины.  
-  
+<br>
 - 🌱 Сейчас я изучаю React/ReactNative 
 - 💬 Если вам нужна помощь во Frontend, я готов помочь
 - 📫 Связаться со мной [@bergamolt](https://t.me/bergamolt)
@@ -28,10 +26,6 @@
 📊 **На этой неделе я потратил свое время:**
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bergamolt)](https://github.com/anuraghazra/github-readme-stats)
 
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
 
