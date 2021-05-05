@@ -5,5 +5,5 @@ I'm JavaScript Developer.
 ### Contact me!
 
 Inst: [@bergamolt](https://www.instagram.com/bergamolt/)   
-Telegram: @bergamolt  
+Telegram: [@bergamolt](https://t.me/bergamolt/)    
 Email: bergamolt22@gmail.com   
