@@ -1,4 +1,4 @@
-### Hey There, I'm Yaroslav👋
+### Hey There, I'm Valeriy👋
 
 I'm JavaScript Developer.
 
